@@ -1,0 +1,6 @@
+PyMsgBox===1.0.7
+imageio
+pyautogui
+pdfrw
+tifftools
+py2exe
